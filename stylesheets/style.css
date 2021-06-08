@@ -5,3 +5,14 @@
 .container {
     border: solid black 2px;
 }
+
+#navbar-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+li {
+    list-style-type: none;
+    padding-right: 15px;
+}
+
