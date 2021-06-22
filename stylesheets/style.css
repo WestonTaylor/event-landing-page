@@ -2,6 +2,16 @@
     padding-bottom: 20px;
 }
 
-.container {
-    border: solid black 2px;
+#navbar-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+li {
+    list-style-type: none;
+    padding-right: 15px;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
 }
